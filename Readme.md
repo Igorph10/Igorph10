@@ -2,7 +2,8 @@
 
 <h5 align="left">Desenvolvedor Iniciante</h5>
 
-<h3 align="left">Me chamo Igor César, tenho 21 anos e sou natural de Cuiabá, Mato Grosso. Atualmente, faço faculdade na UNIVAG do curso de Sistema de Informação - 4° Semestre. Sou um jovem garoto, apaixonado por tecnologia e suas evoluções e estou no processo de aprendizagem neste ramo. No momento, sou um desenvolvedor iniciante e faço pequenos projetos relacionados a Full Stack.</h3>
+<h3 align="left">Olá! Me chamo Igor César, tenho 21 anos e sou natural de Cuiabá - Mato Grosso. Sou um jovem apaixonado por tecnologia e suas evoluções, gosto de ver o que ela pode nos proporcionar para ter um convívio melhor! Atualmente, tenho começado neste meu processo de aprendizagem, estou cursando na faculdade o curso de Sistema de Informação - onde estou no 5° Semestre.
+  No momento, sou um desenvolvedor iniciante e faço projetos relacionados a Full Stack, como landing pages ou sistemas para E-commerces, tanto para sites ou mobiles.</h3>
 
 ###
 ###
@@ -35,16 +36,6 @@
 </div>
 
 ###
----
-
-<h3 align="left">📈 Estatísticas</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Igorph10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Igorph10&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 
 ---
 
@@ -55,5 +46,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Igorph10/Igorph10/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Igorph10/Igorph10/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
