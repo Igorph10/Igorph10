@@ -1,6 +1,6 @@
 <h1 align="left">🧑‍💻 Igor César</h1>
 
-<h4 align="left">Full Stack Developer · Cuiabá, MT 🌎</h4>
+<h4 align="left">Desenvolvedor · Várzea Grande, MT 🌎</h4>
 
 ---
 
